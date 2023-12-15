@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+body {backgroung-color: lightpink;}
+
+h1  {color: red:}
+
+p  {color: black;}
+
+</style>
+
+</head>
+
+<body>
+
+
+<h1>My name is vaishnavi</h1>
+
+<p>Also this is me. </p>
+
+
+</body>
+
+</html>
